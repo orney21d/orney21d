@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **c#, clean architecture, .net stack, distributed systems, anything...:)**
 
-- 📫 How to reach me **https://www.linkedin.com/in/orney/**
+- 📫 How to reach me **https://www.linkedin.com/in/orney/** 
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/orney/](https://www.linkedin.com/in/orney/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/orney/](https://www.linkedin.com/in/orney/) | [https://orneymartinez.me/](https://orneymartinez.me/)
 
 - ⚡ Fun fact **Dancing cuban salsa and some longboard make me a better developer :)**
 
