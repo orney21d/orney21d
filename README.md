@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/orney/** 
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/orney/](https://www.linkedin.com/in/orney/) | [https://orneymartinez.me/](https://orneymartinez.me/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/orney/](https://www.linkedin.com/in/orney/) | [https://orneymartinez.xyz/](https://orneymartinez.xyz/)
 
 - ⚡ Fun fact **Dancing cuban salsa and some longboard make me a better developer :)**
 
